@@ -1,4 +1,5 @@
 _repo: The-Adventures-of-Old-Man-Coyote_46952
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Cady, Harrison
@@ -9,6 +10,9 @@ contributor:
     deathdate: 1970
     gutenberg_agent_id: '8456'
     url: http://www.gutenberg.org/2009/agents/8456
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Burgess, Thornton W. (Thornton Waldo)
@@ -21,6 +25,8 @@ creator:
 description: Once the animals in the Green Meadows realize that Ol' Mistah Buzzard
   isn't a hawk and someone to be afraid of, they learn many curious and interesting
   things from the old fellow.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46952#The-Adventures-of-Old-Man-Coyote
 gutenberg_issued: '2014-09-24'
 gutenberg_type: Text
 identifiers:
