@@ -35,5 +35,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: The Adventures of Old Man Coyote
 url: http://www.gutenberg.org/ebooks/46952
